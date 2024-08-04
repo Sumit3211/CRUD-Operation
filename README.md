@@ -42,4 +42,11 @@ Repositories: Interfaces for CRUD operations on the database.
 Models: Contains entity classes mapped to database tables.
 Views: Thymeleaf templates for the front-end.
 
+#Home page
+![Screenshot 2024-08-04 132944](https://github.com/user-attachments/assets/c5be385e-9c2c-428e-b12a-31576f07fd91)
 
+#Details page
+![Screenshot 2024-08-04 133004](https://github.com/user-attachments/assets/e22aeaec-d764-4b15-804f-2858cae66f4e)
+
+#Edit Page
+![Screenshot 2024-08-04 133020](https://github.com/user-attachments/assets/c9ba70e5-6cb0-4d5f-89ba-832bed5ea1ea)
