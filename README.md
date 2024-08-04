@@ -50,3 +50,6 @@ Views: Thymeleaf templates for the front-end.
 
 #Edit Page
 ![Screenshot 2024-08-04 133020](https://github.com/user-attachments/assets/c9ba70e5-6cb0-4d5f-89ba-832bed5ea1ea)
+
+#MySQL Database
+![Screenshot 2024-08-04 133523](https://github.com/user-attachments/assets/f23f43a7-9896-4539-8f52-e07572570f4a)
